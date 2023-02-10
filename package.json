@@ -1,0 +1,41 @@
+{
+  "name": "mybussinesslearnig",
+  "version": "1.0.1",
+  "description": "my personal subject",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start",
+    "seed": "npm seed",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mkabil123/mybussinesslearnig.git"
+  },
+  "keywords": [
+    "sequelize",
+    "nodejs",
+    "reactjs",
+    "aws",
+    "github",
+    "mysql."
+  ],
+  "author": "kabil murugumani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mkabil123/mybussinesslearnig/issues"
+  },
+  "homepage": "https://github.com/Mkabil123/mybussinesslearnig#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-modules": "^1.0.1",
+    "nodemon": "^2.0.20",
+    "onesignal-node": "^3.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.4"
+  }
+}
